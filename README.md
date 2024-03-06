@@ -4,7 +4,7 @@
 ----------------------------
 # About:
 -------------------------
-This Zara sales dataset contains information about product sales from Zara stores over a specific period of time. The dataset includes various attributes relevant to sales, such as product ID, product name, product category, price, sales volume, sales date, and store location. This data can be used to analyze product sales trends, sales performance across different product categories, the effectiveness of promotions, customer purchasing patterns, and other factors that influence Zara's sales performance.
+This ZARA sales dataset contains information about product sales from ZARA stores over a specific period of time. The dataset includes various attributes relevant to sales, such as product ID, product name, product category, price, sales volume, sales date. This data can be used to analyze product sales trends, sales performance across different product categories, the effectiveness of promotions, customer purchasing patterns, and other factors that influence Zara's sales performance.
 
 
 # Purpose of the project:
@@ -15,4 +15,4 @@ The major aim of thie project is to gain insight into the sales data of ZARA Bra
 
 # About Data:
 ------------------
-The dataset was obtained from the https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara
+The dataset was obtained from the  [https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara]. The data contains 16 columns and 252 rows:

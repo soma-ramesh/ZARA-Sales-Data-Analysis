@@ -1,6 +1,6 @@
 # ZARA-Sales-Data-Analysis
 ------------------------------
-Data Analysis using MySQL
+### Data Analysis using MySQL
 ----------------------------
 # About
 -------------------------

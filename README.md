@@ -93,4 +93,24 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 5. **Low Sales Volume** : The "Abstract Jacquard Sweater" has the lowest sales volume, indicating that it may not be as popular among customers compared to other products.
 The relatively low sales volume coupled with the product's price of $60 may suggest that customers perceive the product as less attractive at its current price point. ZARA may explore pricing adjustments or promotions to stimulate sales.
 
+6. **Top Revenue Products**: The "Contrasting Patches Bomber Jacket" and the "Suit Jacket In 100% Linen" are the top-performing products in terms of revenue. These products contribute significantly to ZARA's overall sales. Revenue from "Contrasting Patches Bomber Jacket" is  "0.89 Millions" and Revenue from "Suit Jacket In 100% Linen" is	0.82 Millions.7. 
+
+7. **Dominant Categories**: "Clothing" stands out as the dominant product category in terms of sales volume, significantly surpassing other categories. "Footwear" also contributes to sales but to a lesser extent. The high sales volume in the "Clothing" category suggests strong customer preferences for ZARA's clothing products. While "Clothing" dominates, the "Footwear" category still represents a substantial portion of sales. ZARA may explore opportunities to enhance its footwear offerings, considering trends and customer preferences in this segment.
+
+8. **Men's Jackets Dominance**: The top-selling sub-category is "jackets" in the "Men" section, with a significant sales volume of 255,451 units. This suggests a strong demand for men's jackets.
+
+9. **Women's Sweaters Significance** : In the "Women" section, "sweaters" emerge as a notable sub-category with a sales volume of 63,374 units. This indicates popularity and demand for women's sweaters.
+
+10. **Men's Shoes and T-Shirts** : "shoes" and "t-shirts" are prominent sub-categories in the "Men" section, with sales volumes of 57,906 and 53,637 units, respectively. This suggests a strong market for men's footwear and t-shirts.
+
+11. **Men's Jeans and Sweaters** : "jeans" and "sweaters" are also contributing sub-categories in the "Men" section, with sales volumes of 13,320 and 11,868 units, respectively.
+
+12. **Aisle Dominance** : The "Aisle" section contributes the highest percentage to total sales, accounting for 38.94%. This suggests that products placed in the aisle have a significant impact on overall sales.
+
+13. **Sales Volume Impact**: While products with promotions contribute to a slightly lower percentage of the total sales volume (47%), they appear to have a balanced impact on overall revenue (50%).
+
+14. **Revenue Distribution**: The distribution of revenue is evenly split between products with and without promotions, both accounting for approximately 50% of the total revenue.
+
+15. **Promotions Effectiveness**: The data suggests that promotions may not significantly impact the overall revenue distribution but play a role in influencing sales volume. ZARA may consider optimizing their promotion strategies to enhance overall sales performance.
+
 

@@ -42,5 +42,7 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 6. Section-wise Sales:
 
 ----------------------------------------------------------------------
+# Approach Used:
+** Data Wrangling **: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 
 

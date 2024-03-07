@@ -33,5 +33,14 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 | section             | Section or category where the product is sold in the store                   | VARCHAR(15)     |
 ------------------------------------------------------------------------------------------------------------------------
 
+# Analysis List:
+1. Overall Sales Analysis:
+2. Product Analysis:
+3. Promotions:
+4. Seasonal Trends:
+5. Store Section Analysis:
+6. Section-wise Sales:
+
+----------------------------------------------------------------------
 
 

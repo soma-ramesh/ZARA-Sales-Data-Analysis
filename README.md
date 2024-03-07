@@ -82,11 +82,15 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 ------------------------------------------------------------------
 
 
-**Total Sales Volume** : The sum of the sales volume for all products in the dataset is 455,556 units.
-**Total Revenue** : The total revenue generated from sales is $38,129,605.
-**Average Price** : The average price of products sold is $85.2960.
-**Top-Selling Product** : "Plaid Tie Dye Overshirt" stands out as the product with the highest sales volume, indicating strong customer demand for this particular item.
-**Low Sales Volume** : The "Abstract Jacquard Sweater" has the lowest sales volume, indicating that it may not be as popular among customers compared to other products.
+1. **Total Sales Volume** : The sum of the sales volume for all products in the dataset is 455,556 units.
+
+2. **Total Revenue** : The total revenue generated from sales is $38,129,605.
+
+3. **Average Price** : The average price of products sold is $85.2960.
+ 
+4. **Top-Selling Product** : "Plaid Tie Dye Overshirt" stands out as the product with the highest sales volume, indicating strong customer demand for this particular item.
+ 
+5. **Low Sales Volume** : The "Abstract Jacquard Sweater" has the lowest sales volume, indicating that it may not be as popular among customers compared to other products.
 The relatively low sales volume coupled with the product's price of $60 may suggest that customers perceive the product as less attractive at its current price point. ZARA may explore pricing adjustments or promotions to stimulate sales.
 
 

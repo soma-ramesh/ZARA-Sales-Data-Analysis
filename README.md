@@ -43,10 +43,13 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 
 ----------------------------------------------------------------------
 # Approach Used:
-1. # Data Wrangling :This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
-   1. Build a database
-   2. Create table and insert the data.
-2. Feature Engineering: This will help use generate some new column from existing ones.
+1. # Data Wrangling :
+   This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
+   **1. Build a database**
+   **2. Create table and insert the data**
+   
+2. # Feature Engineering:
+   This will help use generate some new column from existing ones.
    1. Add a new column named **Revenue** to give the insights of each product of revenue and is obtained from Price and Sales_Volume of the product.
 
 

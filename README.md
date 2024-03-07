@@ -54,8 +54,6 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
    
 3. # Exploratory Data Analysis (EDA): 
    Exploratory data analysis is done to answer the listed questions and aims of this project.
-   
-4. # Conclusion:
 --------------------------------------------------------
 
 # Business Questions To Answer:
@@ -81,6 +79,8 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 20. How are price ranges distributed within each Sub_Category?   
 ------------------------------------------------------------------
 
+
+# CONCLUSIONS:
 
 1. **Total Sales Volume** : The sum of the sales volume for all products in the dataset is 455,556 units.
 
@@ -113,4 +113,8 @@ The relatively low sales volume coupled with the product's price of $60 may sugg
 
 15. **Promotions Effectiveness**: The data suggests that promotions may not significantly impact the overall revenue distribution but play a role in influencing sales volume. ZARA may consider optimizing their promotion strategies to enhance overall sales performance.
 
+16. **Top-Selling Seasonal Product**: The "Plaid Tie Dye Overshirt" stands out as the most popular seasonal product, demonstrating high demand among customers during the seasonal period. ZARA can take note of the success of this particular seasonal item and explore strategies to replicate its success or identify similar products for future seasonal offerings.
 
+17. **Lowest Price Seasonal Product**: The "High Collar Knit Sweater" is the seasonal product with the lowest price, priced at 8 USD.
+
+18. **Highest Price Seasonal Product**: The "Cropped Leather Jacket" stands out as the seasonal product with the highest price, commanding a price of 439 USD.

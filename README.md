@@ -27,7 +27,7 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 | sales_Volume        | The quantity of products sold.                                               | INT             |
 | brand               | Brand of the product                                                         |  VARCHAR(25)    |
 | name                |Name of the product.                                                          | VARCHAR(100)    |
-| price               | Price of the product.                                                        | TIMESTAMP       |
+| price               | Price of the product.                                                        | INT             |
 | currency            |Currency of the product price.                                                | VARCHAR(10)     |
 | terms               |Terms or conditions of the product.                                           | VARCHAR(15)     |
 | section             | Section or category where the product is sold in the store                   | VARCHAR(15)     |

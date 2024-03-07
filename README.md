@@ -49,7 +49,7 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
    **2. Create table and insert the data**
    
 2. # Feature Engineering:
-   This will help use generate some new column from existing ones.
+   This will help us generate some new column from existing ones.
    1. Add a new column named **Revenue** to give the insights of each product of revenue and is obtained from Price and Sales_Volume of the product.
    
 3. # Exploratory Data Analysis (EDA): 

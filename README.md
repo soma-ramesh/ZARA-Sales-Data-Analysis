@@ -25,7 +25,7 @@ The dataset was obtained from [https://www.kaggle.com/datasets/xontoloyo/data-pe
 | product_Category    | The category of the product, such as clothing, accessories, shoes, etc.      | VARCHAR(45)     |
 | seasonal            |Indicator of whether the product is part of a specific seasonal collection.   | CHAR(5)         |
 | sales_Volume        | The quantity of products sold.                                               | INT             |
-| brand               | Brand of the product                                                         |  VARCHAR(25)    |
+| brand               | Brand of the product                                                         | VARCHAR(25)    |
 | name                |Name of the product.                                                          | VARCHAR(100)    |
 | price               | Price of the product.                                                        | INT             |
 | currency            |Currency of the product price.                                                | VARCHAR(10)     |
